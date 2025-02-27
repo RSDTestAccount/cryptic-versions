@@ -1,14 +1,20 @@
 {
-    "roblox": {
-      "version": "version-302fe31805ab4542",
-      "type": "WindowsPlayer",
-      "channel": "LIVE"
-    },
-    "certificate": {
-      "x64": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/CrypticSetup.exe",
-      "x86": null
-    },
-    "cryptic": {
-      "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic%20v302fe31805ab4542.zip"
-    }
-  } 
+  "roblox": {
+    "version": "version-302fe31805ab4542",
+    "type": "WindowsPlayer",
+    "channel": "LIVE"
+  },
+  "certificate": {
+    "x64": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/CrypticSetup.exe",
+    "x86": null
+  },
+  "cryptic": {
+    "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic%20v302fe31805ab4542.zip"
+  },
+  "discord": {
+    "invite": "https://discord.gg/crypticpc"
+  },
+  "shop": {
+    "link": "https://rsdstore.com/"
+  }
+} 
